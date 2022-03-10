@@ -37,7 +37,9 @@ TaskBuddy is our client program, users can only interacts with this class direct
  
  ## Screenshots
  > Screenshots of the input/output after running your application
+ 
  <img src="pic1.png?raw=true" width="1000">
+ 
  ## Installation/Usage
  > Instructions on installing and running your application
  ## Testing
