@@ -39,9 +39,13 @@ TaskBuddy is our client program, users can only interacts with this class direct
  > Screenshots of the input/output after running your application
  
  <img src="pic1.png?raw=true" width="1000">
+ <img src="pic2.png?raw=true" width="1000">
+ <img src="pic3.png?raw=true" width="1000">
+ <img src="pic4.png?raw=true" width="1000">
+ <img src="pic5.png?raw=true" width="1000">
  
  ## Installation/Usage
- > Instructions on installing and running your application
+ Download our repository to your desktop, navigate to our build webassembly and rightclick and open in broswer the TaskBuddy.html file.
  ## Testing
- > How was your project tested/validated? If you used CI, you should have a "build passing" badge in this README.
+ We have ran sufficient tests to show our program is performing as expected, using unittesting as well as CI.
  
